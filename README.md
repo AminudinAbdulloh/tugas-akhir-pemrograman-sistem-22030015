@@ -22,10 +22,11 @@ Aplikasi ini adalah contoh sederhana dari aplikasi CRUD (Create, Read, Update, D
 
 ## Struktur Proyek
 tugas-akhir-pemrograman-sistem-22030015/
-├── app.py
-├── product.py
-├── category.py
-├── unit.py
+├── src/
+  ├── app.py
+  ├── product.py
+  ├── category.py
+  ├── unit.py
 └── README.mdk
 
 
